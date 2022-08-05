@@ -114,5 +114,9 @@ Adding a name of the window
            button15.grid(row=4,column=3)
            root.mainloop()
            
-    
+#OUTPUT:
+
+![image](https://user-images.githubusercontent.com/95034012/183071471-8c1d7c20-9357-4f26-9573-1e05f79f995a.png)
+
+
               
